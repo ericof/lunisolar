@@ -4,7 +4,7 @@ setup(
         name = "lunisolar",
         packages = ["lunisolar", "pycalcal"],
         install_requires=requires,
-        version = "0.1.3",
+        version = "0.2.0.dev0",
         description = "A library to handle the Chinese calendar",
         long_description=open('README.rst').read(),
         author = "Lee Wei Yen",

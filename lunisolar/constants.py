@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+"""Package constants."""
 heavenly_stems = ['jia',
                   'yi',
                   'bing',
@@ -6,7 +8,7 @@ heavenly_stems = ['jia',
                   'ji',
                   'geng',
                   'xin',
-                  'ren', 
+                  'ren',
                   'gui']
 
 elements = ['wood',
@@ -33,15 +35,15 @@ earthly_branches = ['zi',
                     'xu',
                     'hai']
 
-zodiac = [ 'rat', 
-           'ox', 
-           'tiger', 
-           'rabbit', 
-           'dragon', 
-           'snake', 
-           'horse', 
-           'goat',
-           'monkey',
-           'rooster',
-           'dog',
-           'pig']
+zodiac = ['rat',
+          'ox',
+          'tiger',
+          'rabbit',
+          'dragon',
+          'snake',
+          'horse',
+          'goat',
+          'monkey',
+          'rooster',
+          'dog',
+          'pig']
